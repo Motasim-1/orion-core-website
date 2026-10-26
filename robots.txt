@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add sitemap after final domain is confirmed.
